@@ -2,7 +2,7 @@
 - 👀 I’m interested in Job
 - 🌱 I’m currently learning HTML5, CSS, JavaScript
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me ...
+- 📫 How to reach me klimavtsov@gmail.com
 
 <!---
 Alexey-Klimavtsov/Alexey-Klimavtsov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
