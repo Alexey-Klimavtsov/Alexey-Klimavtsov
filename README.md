@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Alexey-Klimavtsov
 - 👀 I’m interested in Job
-- 🌱 I’m currently learning HTML5, CSS, JavaScript
-- 💞️ I’m looking to collaborate on programming
+- 🌱 Web develop.
+- 💞️ My stack is: TS, JS, NestJS, React, NodeJS
 - 📫 How to reach me klimavtsov@gmail.com
-
-- https://alexey-klimavtsov.github.io/Weather-app/
-- 
 
 <!---
 Alexey-Klimavtsov/Alexey-Klimavtsov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
